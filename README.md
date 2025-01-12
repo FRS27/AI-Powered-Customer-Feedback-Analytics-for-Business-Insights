@@ -69,6 +69,8 @@ Handles structured datasets with pandas, ensuring robust preprocessing for colum
 
 Fully automates missing value checks and column verifications.
 
+
+
 **📊 Key Results**
 
 **1. Sentiment Trends Over Time**
@@ -86,3 +88,24 @@ Fully automates missing value checks and column verifications.
 **4. Product Performance**
 
 **Insights:** Sales trends over time reveal product success rates and customer demand patterns.
+
+
+**🛠️ Technologies Used**
+
+**Programming Language:** Python
+
+**Libraries:**
+
+**Natural Language Processing:** Hugging Face Transformers (DistilBERT pipeline).
+
+**Clustering and Feature Engineering:** TF-IDF Vectorization, K-Means Clustering (scikit-learn).
+
+**Visualization:** Plotly, Matplotlib, WordCloud.
+
+**Data Manipulation:** pandas, NumPy.
+
+**Machine Learning Techniques:**
+
+Sentiment analysis via NLP models.
+
+Topic modeling and clustering.
