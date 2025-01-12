@@ -1,0 +1,201 @@
+date,category,feedback,rating,customer_id,order_id,number_of_sales
+2024-10-16,Knitted Sweaters,Amazing knitted sweaters! The knitting pattern is so detailed.,4,CUST_6649,ORD_59573,112
+2024-10-01,Cushion Covers,"Great handmade cushion covers, worth every penny!",5,CUST_7562,ORD_24244,445
+2024-07-17,Baby Blankets,Perfect for my bedroom. The colors are exactly as shown.,5,CUST_3117,ORD_77505,358
+2024-10-24,Baby Blankets,The baby blankets adds such charm to my nursery.,5,CUST_4643,ORD_52402,280
+2024-10-09,Wall Hangings,Perfect for my nursery. The colors are exactly as shown.,5,CUST_3677,ORD_14136,116
+2024-11-05,Baby Clothes,Perfect for my guest room. The colors are exactly as shown.,4,CUST_6636,ORD_65951,81
+2024-11-02,Table Runners,Size of the table runners was smaller than expected.,1,CUST_2343,ORD_93467,198
+2024-11-08,Bedsheets,The bedsheets adds such charm to my nursery.,5,CUST_1108,ORD_93577,30
+2024-09-11,Baby Clothes,Perfect for my nursery. The colors are exactly as shown.,5,CUST_6226,ORD_87617,112
+2024-09-06,Baby Blankets,Perfect for my guest room. The colors are exactly as shown.,5,CUST_2818,ORD_65592,131
+2024-10-28,Bedsheets,The bedsheets adds such charm to my guest room.,4,CUST_1205,ORD_63907,476
+2024-11-19,Baby Clothes,"Great handmade baby clothes, worth every penny!",5,CUST_1500,ORD_97599,224
+2024-09-14,Table Runners,Amazing table runners! The knitting pattern is so detailed.,4,CUST_8438,ORD_32574,340
+2024-09-12,Table Runners,The table runners adds such charm to my bedroom.,4,CUST_7726,ORD_58276,468
+2024-12-13,Table Runners,Amazing table runners! The knitting pattern is so detailed.,4,CUST_3758,ORD_79405,97
+2024-11-01,Cushion Covers,Amazing cushion covers! The knitting pattern is so detailed.,5,CUST_4164,ORD_97994,382
+2024-12-31,Bedsheets,"Great handmade bedsheets, worth every penny!",4,CUST_2820,ORD_36045,109
+2024-12-24,Knitted Sweaters,"Great handmade knitted sweaters, worth every penny!",5,CUST_2882,ORD_27983,369
+2025-01-03,Baby Clothes,The baby clothes colors were different from the picture.,2,CUST_8473,ORD_71141,161
+2024-10-28,Knitted Sweaters,Amazing knitted sweaters! The knitting pattern is so detailed.,5,CUST_4183,ORD_12785,140
+2024-12-07,Table Runners,Amazing table runners! The knitting pattern is so detailed.,5,CUST_7317,ORD_74801,159
+2024-12-29,Baby Clothes,The baby clothes adds such charm to my living room.,5,CUST_4966,ORD_18278,318
+2024-12-26,Cushion Covers,Size of the cushion covers was smaller than expected.,2,CUST_9138,ORD_86873,267
+2024-11-07,Baby Blankets,"Great handmade baby blankets, worth every penny!",5,CUST_4796,ORD_16073,353
+2024-12-12,Baby Blankets,The baby blankets quality could be better.,1,CUST_7211,ORD_18650,423
+2024-10-12,Baby Blankets,Perfect for my bedroom. The colors are exactly as shown.,4,CUST_8193,ORD_58574,303
+2024-11-25,Baby Blankets,The baby blankets adds such charm to my living room.,4,CUST_6372,ORD_50271,395
+2024-10-21,Cushion Covers,Love the outstanding quality! The cushion covers is beautiful.,5,CUST_8331,ORD_52398,201
+2024-08-27,Bedsheets,The bedsheets adds such charm to my nursery.,5,CUST_2617,ORD_76383,453
+2024-11-26,Baby Blankets,"Great handmade baby blankets, worth every penny!",5,CUST_3947,ORD_95461,286
+2024-09-18,Baby Blankets,The baby blankets started fraying after one wash.,3,CUST_9462,ORD_37250,170
+2024-09-29,Knitted Sweaters,The knitted sweaters quality could be better.,2,CUST_6224,ORD_39924,469
+2024-11-12,Bedsheets,The bedsheets adds such charm to my living room.,4,CUST_7270,ORD_30720,323
+2024-10-26,Wall Hangings,The wall hangings adds such charm to my guest room.,5,CUST_6789,ORD_88335,31
+2024-09-29,Bedsheets,The bedsheets colors were different from the picture.,2,CUST_2867,ORD_93343,262
+2024-12-10,Cushion Covers,"Great handmade cushion covers, worth every penny!",4,CUST_1737,ORD_45745,245
+2024-08-16,Wall Hangings,Perfect for my bedroom. The colors are exactly as shown.,5,CUST_7029,ORD_34660,354
+2024-12-20,Cushion Covers,The cushion covers started fraying after one wash.,2,CUST_4263,ORD_24299,58
+2024-08-10,Baby Clothes,"Great handmade baby clothes, worth every penny!",4,CUST_1948,ORD_46084,484
+2024-12-02,Cushion Covers,Perfect for my guest room. The colors are exactly as shown.,5,CUST_2545,ORD_30735,68
+2024-08-06,Bedsheets,Amazing bedsheets! The knitting pattern is so detailed.,5,CUST_4501,ORD_33973,179
+2024-10-02,Bedsheets,Perfect for my nursery. The colors are exactly as shown.,5,CUST_2695,ORD_44929,485
+2024-12-09,Baby Blankets,Perfect for my bedroom. The colors are exactly as shown.,4,CUST_3273,ORD_37253,197
+2024-09-01,Cushion Covers,"Great handmade cushion covers, worth every penny!",4,CUST_4667,ORD_71768,473
+2024-11-28,Knitted Sweaters,Took too long to deliver the knitted sweaters.,3,CUST_2701,ORD_87896,280
+2024-09-22,Bedsheets,Amazing bedsheets! The knitting pattern is so detailed.,5,CUST_7049,ORD_47289,199
+2024-10-19,Baby Clothes,Took too long to deliver the baby clothes.,2,CUST_4963,ORD_87739,455
+2024-10-15,Cushion Covers,"Great handmade cushion covers, worth every penny!",5,CUST_9115,ORD_71742,184
+2024-09-23,Baby Blankets,The baby blankets started fraying after one wash.,1,CUST_4920,ORD_61325,455
+2024-09-19,Baby Clothes,The baby clothes adds such charm to my guest room.,5,CUST_5119,ORD_41238,60
+2024-10-08,Knitted Sweaters,Took too long to deliver the knitted sweaters.,3,CUST_2685,ORD_46834,373
+2024-09-04,Table Runners,Size of the table runners was smaller than expected.,1,CUST_2590,ORD_65445,64
+2024-07-18,Table Runners,Perfect for my guest room. The colors are exactly as shown.,5,CUST_7025,ORD_85647,253
+2024-07-31,Table Runners,The table runners adds such charm to my living room.,5,CUST_6103,ORD_83834,329
+2024-11-13,Cushion Covers,The cushion covers adds such charm to my bedroom.,5,CUST_5001,ORD_65749,140
+2024-10-05,Bedsheets,Love the excellent quality! The bedsheets is beautiful.,5,CUST_4647,ORD_75158,494
+2024-08-15,Table Runners,Love the fantastic quality! The table runners is beautiful.,5,CUST_5789,ORD_86308,316
+2024-11-04,Bedsheets,"Great handmade bedsheets, worth every penny!",4,CUST_9384,ORD_67882,144
+2024-07-14,Knitted Sweaters,Love the fantastic quality! The knitted sweaters is beautiful.,5,CUST_4781,ORD_74514,30
+2024-07-22,Baby Blankets,"Great handmade baby blankets, worth every penny!",5,CUST_8577,ORD_70348,338
+2024-12-01,Bedsheets,Perfect for my guest room. The colors are exactly as shown.,4,CUST_3672,ORD_11928,176
+2024-10-31,Knitted Sweaters,Perfect for my living room. The colors are exactly as shown.,5,CUST_4422,ORD_67895,283
+2024-12-06,Knitted Sweaters,Took too long to deliver the knitted sweaters.,1,CUST_2721,ORD_80038,397
+2024-11-02,Bedsheets,Amazing bedsheets! The knitting pattern is so detailed.,5,CUST_1538,ORD_16211,98
+2024-07-25,Bedsheets,Love the excellent quality! The bedsheets is beautiful.,5,CUST_5531,ORD_94140,325
+2024-07-27,Wall Hangings,The wall hangings quality could be better.,2,CUST_4014,ORD_45623,23
+2024-07-17,Baby Blankets,The baby blankets adds such charm to my nursery.,4,CUST_6142,ORD_95934,251
+2024-09-10,Cushion Covers,Amazing cushion covers! The knitting pattern is so detailed.,5,CUST_8166,ORD_85388,274
+2024-11-30,Bedsheets,Perfect for my nursery. The colors are exactly as shown.,5,CUST_1592,ORD_26094,355
+2024-12-16,Knitted Sweaters,Love the premium quality! The knitted sweaters is beautiful.,4,CUST_1649,ORD_93454,62
+2024-11-09,Wall Hangings,Amazing wall hangings! The knitting pattern is so detailed.,5,CUST_3179,ORD_35156,395
+2024-08-23,Table Runners,The table runners adds such charm to my guest room.,4,CUST_1769,ORD_55578,349
+2024-07-26,Knitted Sweaters,The knitted sweaters quality could be better.,3,CUST_8259,ORD_76100,101
+2024-07-30,Wall Hangings,The wall hangings adds such charm to my bedroom.,5,CUST_9421,ORD_48254,376
+2024-09-17,Bedsheets,Love the outstanding quality! The bedsheets is beautiful.,5,CUST_7420,ORD_40290,453
+2024-11-26,Baby Clothes,"Great handmade baby clothes, worth every penny!",4,CUST_9563,ORD_32332,464
+2024-12-23,Wall Hangings,"Great handmade wall hangings, worth every penny!",5,CUST_8049,ORD_39601,437
+2024-09-10,Baby Blankets,Love the premium quality! The baby blankets is beautiful.,5,CUST_7047,ORD_80304,273
+2024-09-21,Baby Blankets,The baby blankets started fraying after one wash.,2,CUST_1623,ORD_84664,440
+2024-08-23,Cushion Covers,The cushion covers adds such charm to my living room.,5,CUST_6465,ORD_76902,44
+2024-11-20,Bedsheets,Love the excellent quality! The bedsheets is beautiful.,5,CUST_3415,ORD_57280,215
+2024-11-01,Wall Hangings,Amazing wall hangings! The knitting pattern is so detailed.,5,CUST_2433,ORD_70346,90
+2024-10-27,Table Runners,"Great handmade table runners, worth every penny!",5,CUST_9367,ORD_19909,429
+2024-08-17,Knitted Sweaters,Amazing knitted sweaters! The knitting pattern is so detailed.,5,CUST_5628,ORD_84131,59
+2024-12-12,Baby Blankets,The baby blankets adds such charm to my nursery.,5,CUST_4000,ORD_73731,369
+2024-09-17,Baby Clothes,Amazing baby clothes! The knitting pattern is so detailed.,5,CUST_4164,ORD_95875,397
+2024-12-08,Cushion Covers,Love the fantastic quality! The cushion covers is beautiful.,5,CUST_9814,ORD_17661,11
+2024-11-28,Knitted Sweaters,Amazing knitted sweaters! The knitting pattern is so detailed.,5,CUST_3725,ORD_48697,399
+2024-09-01,Baby Blankets,Amazing baby blankets! The knitting pattern is so detailed.,5,CUST_1853,ORD_67041,63
+2024-10-05,Bedsheets,Perfect for my bedroom. The colors are exactly as shown.,5,CUST_4324,ORD_78462,115
+2024-12-12,Wall Hangings,Took too long to deliver the wall hangings.,3,CUST_8723,ORD_85536,269
+2024-10-10,Baby Blankets,"Great handmade baby blankets, worth every penny!",4,CUST_7565,ORD_99929,319
+2024-12-05,Wall Hangings,Perfect for my living room. The colors are exactly as shown.,5,CUST_4570,ORD_92300,486
+2024-09-26,Table Runners,Took too long to deliver the table runners.,3,CUST_7496,ORD_37510,200
+2024-12-13,Knitted Sweaters,The knitted sweaters adds such charm to my bedroom.,4,CUST_9562,ORD_38019,411
+2024-10-21,Cushion Covers,Amazing cushion covers! The knitting pattern is so detailed.,5,CUST_5290,ORD_94009,227
+2024-11-18,Knitted Sweaters,Perfect for my guest room. The colors are exactly as shown.,5,CUST_4080,ORD_47622,53
+2024-10-23,Wall Hangings,Perfect for my guest room. The colors are exactly as shown.,5,CUST_5105,ORD_11687,171
+2024-09-23,Wall Hangings,"Great handmade wall hangings, worth every penny!",4,CUST_4920,ORD_38173,211
+2024-08-04,Wall Hangings,The wall hangings adds such charm to my guest room.,5,CUST_5073,ORD_36194,455
+2024-09-20,Wall Hangings,Amazing wall hangings! The knitting pattern is so detailed.,5,CUST_4586,ORD_45614,493
+2024-09-13,Bedsheets,Amazing bedsheets! The knitting pattern is so detailed.,5,CUST_9141,ORD_64706,279
+2024-09-03,Wall Hangings,Love the outstanding quality! The wall hangings is beautiful.,5,CUST_5424,ORD_54662,360
+2024-12-26,Wall Hangings,Amazing wall hangings! The knitting pattern is so detailed.,4,CUST_9598,ORD_56992,313
+2024-10-21,Knitted Sweaters,The knitted sweaters colors were different from the picture.,2,CUST_1265,ORD_40945,280
+2024-09-18,Baby Blankets,"Great handmade baby blankets, worth every penny!",5,CUST_2054,ORD_35320,465
+2024-10-19,Wall Hangings,Perfect for my bedroom. The colors are exactly as shown.,5,CUST_7962,ORD_15248,471
+2024-07-29,Wall Hangings,Amazing wall hangings! The knitting pattern is so detailed.,4,CUST_6704,ORD_59294,224
+2025-01-08,Table Runners,"Great handmade table runners, worth every penny!",5,CUST_9273,ORD_53916,261
+2025-01-04,Knitted Sweaters,The knitted sweaters quality could be better.,2,CUST_7294,ORD_26810,199
+2024-10-26,Wall Hangings,"Great handmade wall hangings, worth every penny!",4,CUST_8885,ORD_95644,305
+2024-10-25,Wall Hangings,Perfect for my bedroom. The colors are exactly as shown.,5,CUST_1514,ORD_70874,222
+2024-07-22,Baby Clothes,Amazing baby clothes! The knitting pattern is so detailed.,4,CUST_7324,ORD_85277,217
+2024-10-25,Wall Hangings,Love the fantastic quality! The wall hangings is beautiful.,5,CUST_4378,ORD_64903,246
+2024-09-18,Wall Hangings,Love the excellent quality! The wall hangings is beautiful.,5,CUST_5152,ORD_30002,347
+2024-09-20,Knitted Sweaters,"Great handmade knitted sweaters, worth every penny!",5,CUST_9959,ORD_58962,376
+2024-12-04,Bedsheets,The bedsheets adds such charm to my nursery.,5,CUST_9301,ORD_85392,62
+2024-11-07,Table Runners,Amazing table runners! The knitting pattern is so detailed.,4,CUST_8892,ORD_67498,289
+2024-08-04,Cushion Covers,Love the premium quality! The cushion covers is beautiful.,5,CUST_7397,ORD_60514,419
+2024-10-22,Knitted Sweaters,Perfect for my nursery. The colors are exactly as shown.,4,CUST_5177,ORD_87855,226
+2024-10-26,Baby Clothes,The baby clothes adds such charm to my living room.,5,CUST_2030,ORD_21503,261
+2024-08-12,Baby Clothes,"Great handmade baby clothes, worth every penny!",4,CUST_3064,ORD_80072,197
+2024-12-02,Bedsheets,Amazing bedsheets! The knitting pattern is so detailed.,5,CUST_5963,ORD_72961,389
+2024-12-18,Wall Hangings,The wall hangings adds such charm to my living room.,4,CUST_5828,ORD_10564,50
+2024-07-15,Baby Blankets,Took too long to deliver the baby blankets.,1,CUST_5214,ORD_68379,166
+2024-09-11,Wall Hangings,The wall hangings adds such charm to my nursery.,4,CUST_3019,ORD_37393,24
+2024-10-23,Wall Hangings,Love the excellent quality! The wall hangings is beautiful.,5,CUST_3864,ORD_49162,310
+2025-01-03,Baby Clothes,"Great handmade baby clothes, worth every penny!",4,CUST_7418,ORD_45318,74
+2024-07-24,Baby Clothes,Love the outstanding quality! The baby clothes is beautiful.,5,CUST_5624,ORD_66720,354
+2024-08-13,Knitted Sweaters,The knitted sweaters adds such charm to my living room.,4,CUST_7249,ORD_92217,336
+2024-09-13,Wall Hangings,Perfect for my nursery. The colors are exactly as shown.,5,CUST_1467,ORD_83843,18
+2024-08-15,Baby Blankets,Amazing baby blankets! The knitting pattern is so detailed.,4,CUST_1697,ORD_98096,353
+2024-09-06,Cushion Covers,The cushion covers adds such charm to my guest room.,5,CUST_5864,ORD_84858,138
+2024-11-23,Baby Blankets,Took too long to deliver the baby blankets.,2,CUST_4335,ORD_60918,145
+2024-09-05,Baby Clothes,Amazing baby clothes! The knitting pattern is so detailed.,5,CUST_7287,ORD_61572,481
+2025-01-10,Bedsheets,Perfect for my bedroom. The colors are exactly as shown.,5,CUST_6074,ORD_37220,72
+2024-12-27,Table Runners,"Great handmade table runners, worth every penny!",5,CUST_2435,ORD_95911,148
+2024-07-25,Baby Blankets,Love the premium quality! The baby blankets is beautiful.,5,CUST_4057,ORD_19980,90
+2024-12-04,Cushion Covers,Love the premium quality! The cushion covers is beautiful.,5,CUST_9437,ORD_80557,401
+2024-08-24,Bedsheets,Perfect for my guest room. The colors are exactly as shown.,4,CUST_1991,ORD_84890,172
+2024-11-11,Baby Clothes,The baby clothes adds such charm to my guest room.,5,CUST_2349,ORD_18672,428
+2024-12-15,Baby Clothes,Took too long to deliver the baby clothes.,3,CUST_1500,ORD_65639,298
+2024-11-04,Wall Hangings,Perfect for my nursery. The colors are exactly as shown.,5,CUST_3167,ORD_24650,388
+2024-07-24,Table Runners,The table runners started fraying after one wash.,1,CUST_7617,ORD_47730,270
+2024-10-31,Table Runners,The table runners adds such charm to my living room.,5,CUST_7818,ORD_88145,499
+2024-07-19,Baby Blankets,The baby blankets adds such charm to my living room.,5,CUST_8315,ORD_44752,240
+2024-11-02,Knitted Sweaters,Love the excellent quality! The knitted sweaters is beautiful.,5,CUST_8604,ORD_47625,50
+2024-10-26,Baby Blankets,The baby blankets adds such charm to my guest room.,5,CUST_6024,ORD_99618,37
+2024-09-29,Cushion Covers,Perfect for my bedroom. The colors are exactly as shown.,4,CUST_5468,ORD_87266,144
+2024-09-30,Cushion Covers,"Great handmade cushion covers, worth every penny!",4,CUST_2255,ORD_69593,210
+2025-01-01,Bedsheets,Amazing bedsheets! The knitting pattern is so detailed.,5,CUST_7119,ORD_28734,337
+2024-08-09,Table Runners,The table runners colors were different from the picture.,2,CUST_7167,ORD_56132,277
+2024-08-15,Cushion Covers,"Great handmade cushion covers, worth every penny!",4,CUST_4181,ORD_56696,427
+2024-12-10,Knitted Sweaters,Size of the knitted sweaters was smaller than expected.,2,CUST_5735,ORD_18401,42
+2024-12-30,Baby Blankets,Perfect for my living room. The colors are exactly as shown.,4,CUST_2994,ORD_70996,57
+2024-10-10,Knitted Sweaters,Love the fantastic quality! The knitted sweaters is beautiful.,5,CUST_4775,ORD_17361,416
+2024-12-28,Baby Clothes,Took too long to deliver the baby clothes.,3,CUST_4792,ORD_12200,71
+2024-08-20,Baby Blankets,The baby blankets adds such charm to my bedroom.,5,CUST_5203,ORD_27186,225
+2024-07-18,Baby Blankets,Love the fantastic quality! The baby blankets is beautiful.,4,CUST_6736,ORD_14698,302
+2025-01-02,Cushion Covers,Perfect for my bedroom. The colors are exactly as shown.,4,CUST_7696,ORD_88930,108
+2025-01-04,Cushion Covers,Size of the cushion covers was smaller than expected.,1,CUST_1332,ORD_94829,181
+2024-12-15,Wall Hangings,Perfect for my living room. The colors are exactly as shown.,5,CUST_1552,ORD_55180,369
+2024-08-13,Baby Clothes,Perfect for my guest room. The colors are exactly as shown.,5,CUST_2898,ORD_52851,223
+2024-10-18,Table Runners,Perfect for my living room. The colors are exactly as shown.,4,CUST_5757,ORD_79573,484
+2024-11-05,Bedsheets,Love the fantastic quality! The bedsheets is beautiful.,5,CUST_3174,ORD_76578,44
+2024-09-19,Knitted Sweaters,The knitted sweaters quality could be better.,2,CUST_9179,ORD_24344,458
+2024-08-19,Baby Clothes,Love the fantastic quality! The baby clothes is beautiful.,5,CUST_1121,ORD_30339,236
+2024-10-15,Baby Blankets,Perfect for my guest room. The colors are exactly as shown.,5,CUST_6622,ORD_24942,110
+2024-09-09,Table Runners,The table runners started fraying after one wash.,2,CUST_3592,ORD_37627,440
+2024-09-21,Table Runners,"Great handmade table runners, worth every penny!",5,CUST_6798,ORD_28427,471
+2024-10-13,Table Runners,"Great handmade table runners, worth every penny!",5,CUST_7583,ORD_43848,140
+2024-08-26,Table Runners,The table runners adds such charm to my living room.,4,CUST_7999,ORD_38825,266
+2024-07-16,Wall Hangings,Love the excellent quality! The wall hangings is beautiful.,5,CUST_6984,ORD_57127,14
+2024-09-08,Bedsheets,Perfect for my guest room. The colors are exactly as shown.,5,CUST_1450,ORD_76269,227
+2024-10-21,Table Runners,The table runners adds such charm to my nursery.,5,CUST_8003,ORD_52108,264
+2024-12-30,Knitted Sweaters,The knitted sweaters adds such charm to my bedroom.,5,CUST_1196,ORD_85721,407
+2024-12-30,Table Runners,The table runners adds such charm to my bedroom.,5,CUST_6370,ORD_24443,368
+2024-10-10,Knitted Sweaters,The knitted sweaters adds such charm to my bedroom.,5,CUST_4089,ORD_46929,292
+2024-12-21,Baby Clothes,Love the premium quality! The baby clothes is beautiful.,5,CUST_5180,ORD_16183,402
+2024-08-28,Cushion Covers,Size of the cushion covers was smaller than expected.,3,CUST_1590,ORD_73463,216
+2024-08-03,Wall Hangings,The wall hangings quality could be better.,2,CUST_9683,ORD_14720,24
+2024-10-22,Knitted Sweaters,Took too long to deliver the knitted sweaters.,2,CUST_6233,ORD_55345,355
+2024-07-29,Baby Blankets,Perfect for my bedroom. The colors are exactly as shown.,5,CUST_9030,ORD_17127,51
+2024-09-10,Wall Hangings,Perfect for my bedroom. The colors are exactly as shown.,4,CUST_5926,ORD_22997,389
+2024-09-25,Table Runners,"Great handmade table runners, worth every penny!",5,CUST_6803,ORD_59438,470
+2024-09-12,Knitted Sweaters,The knitted sweaters started fraying after one wash.,2,CUST_1916,ORD_45574,188
+2024-09-09,Bedsheets,Perfect for my guest room. The colors are exactly as shown.,4,CUST_7662,ORD_95713,72
+2024-10-22,Baby Blankets,Love the outstanding quality! The baby blankets is beautiful.,4,CUST_9747,ORD_85510,361
+2024-12-07,Knitted Sweaters,Love the premium quality! The knitted sweaters is beautiful.,4,CUST_2446,ORD_71359,240
+2024-11-25,Baby Clothes,"Great handmade baby clothes, worth every penny!",5,CUST_5494,ORD_18014,250
+2024-11-12,Knitted Sweaters,The knitted sweaters adds such charm to my guest room.,5,CUST_5086,ORD_59101,61
+2024-07-22,Baby Blankets,Amazing baby blankets! The knitting pattern is so detailed.,5,CUST_7064,ORD_18789,105
+2024-12-09,Wall Hangings,The wall hangings adds such charm to my living room.,4,CUST_5363,ORD_16081,397
+2024-07-24,Knitted Sweaters,Love the fantastic quality! The knitted sweaters is beautiful.,4,CUST_8739,ORD_23453,231
+2025-01-09,Table Runners,Perfect for my bedroom. The colors are exactly as shown.,5,CUST_3631,ORD_18545,494
+2024-09-30,Bedsheets,Love the outstanding quality! The bedsheets is beautiful.,4,CUST_8479,ORD_49775,416
+2024-09-22,Wall Hangings,Size of the wall hangings was smaller than expected.,3,CUST_6292,ORD_41119,240
+2024-09-25,Cushion Covers,Perfect for my bedroom. The colors are exactly as shown.,4,CUST_2835,ORD_42654,246
+2024-10-13,Table Runners,Amazing table runners! The knitting pattern is so detailed.,5,CUST_1748,ORD_44817,152
+2025-01-10,Baby Blankets,Love the outstanding quality! The baby blankets is beautiful.,4,CUST_1970,ORD_63971,180
