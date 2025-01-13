@@ -109,3 +109,13 @@ Fully automates missing value checks and column verifications.
 Sentiment analysis via NLP models.
 
 Topic modeling and clustering.
+
+**🧑‍💻 Contributing**
+
+Contributions are welcome! Feel free to fork the repository, make improvements, and submit a pull request.
+
+**📬 Contact**
+
+For any inquiries, feel free to reach out:
+
+**Email:** ahmad.faris615@gmail.com
