@@ -33,6 +33,10 @@ Provides a scalable approach to topic modeling, enabling quick identification of
 
 Interactive multi-line charts visualizing sentiment trends, ratings, and sales data across product categories.
 
+![image](https://github.com/user-attachments/assets/029d3b32-3248-4557-9ca0-30a1fe241562)
+
+
+
 **Topic Distribution:**
 
 Pie charts breaking down feedback topics into proportional contributions.
@@ -41,15 +45,26 @@ Pie charts breaking down feedback topics into proportional contributions.
 
 Visual representation of frequent terms in customer feedback using WordCloud.
 
+![image](https://github.com/user-attachments/assets/6996ccde-091d-4ee4-ab69-bdd6bcb6b1ed)
+
+
 **Sales Performance:**
 
 Interactive sales trend visualizations by product category over time.
+
+
 
 **5. Automated Reporting**
 
 **Text Report:**
 
 Generates category-wise summaries of sentiment scores, ratings, and sales performance.
+
+![image](https://github.com/user-attachments/assets/db836b4c-806c-4327-bc3f-ad232d8dfb6c)
+
+![image](https://github.com/user-attachments/assets/8f6c3845-bad9-4f3b-8497-8001b64286a8)
+
+
 
 **Visualization Report:**
 
@@ -76,6 +91,9 @@ Fully automates missing value checks and column verifications.
 **1. Sentiment Trends Over Time**
 
 **Insights:** Monthly sentiment scores and ratings help identify trends in customer satisfaction for each product category.
+
+![image](https://github.com/user-attachments/assets/a28a37f0-f39d-4708-9927-27172cef24ae)
+
 
 **2. Topic Distribution**
 
